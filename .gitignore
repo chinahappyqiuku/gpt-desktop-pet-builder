@@ -1,0 +1,16 @@
+# Never commit private project inputs or generated likeness assets.
+private/
+user-inputs/
+generated/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.xlsx
+*.xls
+*.zip
+*.exe
+*.pyc
+__pycache__/
