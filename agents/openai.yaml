@@ -1,0 +1,8 @@
+interface:
+  display_name: "GPT 桌宠生成器"
+  short_description: "从填写表格到验收打包的 GPT 桌宠生成与隐私保护流程"
+  brand_color: "#F59E0B"
+  default_prompt: "Use $gpt-desktop-pet-builder to create a new desktop pet from my filled brief."
+
+policy:
+  allow_implicit_invocation: true
